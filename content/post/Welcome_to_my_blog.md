@@ -17,25 +17,25 @@ draft: false
 ## Screenshots
 
 **Home**
-![screenshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/home.png)
+![screenshot](../../blog_images/welcome_to_my_blog/home.png)
 
 **blog**
-![screentshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/blog.png)
+![screentshot](../../blog_images/welcome_to_my_blog/blog.png)
 
 **archive**
-![screenshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/archive.png)
+![screenshot](../../blog_images/welcome_to_my_blog/archive.png)
 
 **search**
-![screentshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/search.png)
+![screentshot](../../blog_images/welcome_to_my_blog/search.png)
 
 **about**
-![screenshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/search.png)
+![screenshot](../../blog_images/welcome_to_my_blog/search.png)
 
 **reward**
-![screenshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/reward.png)
+![screenshot](../../blog_images/welcome_to_my_blog/reward.png)
 
 **404**
-![screenshot](https://raw.githubusercontent.com/StinkyPeach/hugo-simple-theme/main/images/404.png)
+![screenshot](../../blog_images/welcome_to_my_blog/404.png)
 
 
 ## Quick Start

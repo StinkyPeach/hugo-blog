@@ -54,7 +54,7 @@ home = ["HTML", "json"]
 
   [params.social]
   rss            = false 
-  email          = "mrsleetao@gmail.com"
+  email          = "mrslitao@163.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
