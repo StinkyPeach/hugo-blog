@@ -22,7 +22,7 @@ jobs:
           extended: true
 
       - name: Build
-        run: hugo --minify -b https://www.devin66.tk
+        run: hugo --minify -b https://www.litao.in
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
