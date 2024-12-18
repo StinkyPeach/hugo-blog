@@ -2,7 +2,7 @@
 title: "K8s Cluster Construction"
 subtitle: ""
 description: "k8s 集群搭建"
-date: 2022-08-29T02:47:58+08:00
+date: 2024-12-10T02:47:58+08:00
 auther: "Devin"
 tags: 
     - k8s

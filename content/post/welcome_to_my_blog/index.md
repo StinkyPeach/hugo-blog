@@ -2,7 +2,7 @@
 title: "Welcome To My Blog"
 subtitle: ""
 description: "欢迎来到我的博客，这是第一篇文章，水水时间"
-date: 2022-03-26T17:14:39+08:00
+date: 2024-11-26T17:14:39+08:00
 auther: "Devin"
 tags: 
 draft: false
@@ -10,32 +10,32 @@ draft: false
 
 这是本博客的第一篇文章，以后会慢慢更新一些平时我觉的有意思的文章，比如生活，技术，心情等。
 
-下面是本博客大概的面貌。
+下面是本博客大概部分主题截图。
 
 好！今天结束！
 
 ## Screenshots
 
 **Home**
-![screenshot](../../blog_images/welcome_to_my_blog/home.png)
+![screenshot](home.png)
 
 **blog**
-![screentshot](../../blog_images/welcome_to_my_blog/blog.png)
+![screenshot](blog.png)
 
 **archive**
-![screenshot](../../blog_images/welcome_to_my_blog/archive.png)
+![screenshot](archive.png)
 
 **search**
-![screentshot](../../blog_images/welcome_to_my_blog/search.png)
+![screentshot](search.png)
 
 **about**
-![screenshot](../../blog_images/welcome_to_my_blog/search.png)
+![screenshot](about.png)
 
 **reward**
-![screenshot](../../blog_images/welcome_to_my_blog/reward.png)
+![screenshot](reward.png)
 
 **404**
-![screenshot](../../blog_images/welcome_to_my_blog/404.png)
+![screenshot](404.png)
 
 
 ## Quick Start
