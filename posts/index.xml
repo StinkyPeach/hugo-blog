@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Posts on Devin Blog</title><link>https://www.litao.in/posts/</link><description>Recent content in Posts on Devin Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Fri, 20 Dec 2024 14:47:10 +0800</lastBuildDate><atom:link href="https://www.litao.in/posts/index.xml" rel="self" type="application/rss+xml"/><item><title>Compact Disk For WSL2</title><link>https://www.litao.in/posts/compact_wsl_disk/</link><pubDate>Fri, 20 Dec 2024 14:47:10 +0800</pubDate><guid>https://www.litao.in/posts/compact_wsl_disk/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>细心的朋友可能发现了，wsl2在使用过程中，磁盘占用空间会越来越大，但是实际占用空间可能没那么大，如若置之不理，最后会撑爆我们的磁盘🥲🥲🥲。&lt;/p></description></item><item><title>K8s Cluster Construction</title><link>https://www.litao.in/posts/k8s_cluster_construction/</link><pubDate>Tue, 10 Dec 2024 02:47:58 +0800</pubDate><guid>https://www.litao.in/posts/k8s_cluster_construction/</guid><description>&lt;!-- raw HTML omitted -->
+&lt;p>本次使用kubeadm 搭建k8s 集群，总共3台服务器（ubuntu20.04)， k8s版本为1.22.2&lt;/p>
+&lt;h2 id="环境">环境&lt;/h2>
+&lt;ul>
+&lt;li>k8s-master 192.168.30.130&lt;/li>
+&lt;li>k8s-node1 192.168.30.131&lt;/li>
+&lt;li>k8s-node2 192.168.30.132&lt;/li>
+&lt;/ul>
+&lt;h2 id="关闭防火墙">关闭防火墙&lt;/h2>
+&lt;p>3台服务器都需要关闭防火墙&lt;/p></description></item><item><title>Welcome To My Blog</title><link>https://www.litao.in/posts/welcome_to_my_blog/</link><pubDate>Tue, 26 Nov 2024 17:14:39 +0800</pubDate><guid>https://www.litao.in/posts/welcome_to_my_blog/</guid><description>&lt;p>这是本博客的第一篇文章，以后会慢慢更新一些平时我觉的有意思的文章，比如生活，技术，心情等。&lt;/p>
+&lt;p>下面是本博客大概部分主题截图。&lt;/p>
+&lt;p>好！今天结束！&lt;/p>
+&lt;h2 id="screenshots">Screenshots&lt;/h2>
+&lt;p>&lt;strong>Home&lt;/strong>
+&lt;img src="home.png" alt="screenshot">&lt;/p>
+&lt;p>&lt;strong>blog&lt;/strong>
+&lt;img src="blog.png" alt="screenshot">&lt;/p>
+&lt;p>&lt;strong>archive&lt;/strong>
+&lt;img src="archive.png" alt="screenshot">&lt;/p>
+&lt;p>&lt;strong>search&lt;/strong>
+&lt;img src="search.png" alt="screentshot">&lt;/p>
+&lt;p>&lt;strong>about&lt;/strong>
+&lt;img src="about.png" alt="screenshot">&lt;/p></description></item></channel></rss>
