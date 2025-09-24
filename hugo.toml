@@ -31,7 +31,7 @@ title_404 = "o huo! :("
 search = true
 
 featured_tags = true
-featured_condition_size = 1
+featured_condition_size = 0
 
 # Baidu Analytics
 ba_track_id = ""
