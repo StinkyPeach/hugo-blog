@@ -3,7 +3,7 @@ title: "Welcome To My Blog"
 subtitle: ""
 description: "欢迎来到我的博客，这是第一篇文章，水水时间"
 date: 2024-11-26T17:14:39+08:00
-auther: "Devin"
+author: "Devin"
 tags: 
 draft: false
 ---

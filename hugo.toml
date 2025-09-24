@@ -1,0 +1,74 @@
+baseURL = 'https://www.litao.in'
+languageCode = 'en-us'
+title = 'Devin Blog'
+theme = "hugo-simple-theme"
+
+preserveTaxonomyNames = true
+paginate = 5                 #frontpage pagination
+hasCJKLanguage = true
+
+[outputs]
+home = ["HTML", "json"]
+
+[services]
+
+[services.disqus]
+shortname = ''
+
+[services.googleAnalytics]
+id = ''
+
+[params]
+header_image = "img/home-bg.jpg"
+SEOTitle = "Devin 博客 | Devin Blog"
+description = "一个分享生活，技术，心情的博客"
+keyword = "Devin, Devin Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Kubernetes, 微服务, Microservice"
+slogan = "万花从中遇见你"
+
+image_404 = "img/404-bg.jpg"
+title_404 = "o huo! :("
+
+search = true
+
+featured_tags = true
+featured_condition_size = 1
+
+# Baidu Analytics
+ba_track_id = ""
+
+# We need a proxy to access Disqus api in China
+# Follow https://github.com/zhaohuabing/disqus-php-api to set up your own disqus proxy
+disqus_proxy = ""
+disqus_site = ""
+
+# Twikoo comments
+# Follow https://twikoo.js.org/ to set up your own env_id
+twikoo_env_id = ""
+
+#Enable wechat pay & alipay to allow readers send reward money if they like the articles 
+reward = true
+reward_guide = "如果这篇文章对你有用,请随意打赏"
+
+friends = true
+about_me = true
+
+# Include any custom CSS and/or JS files, url or relative to /static folder
+#custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
+#custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
+
+[params.social]
+rss = false
+email = "mrslitao@163.com"
+github = "https://github.com/StinkyPeach"
+
+[[params.friend_link]]
+title = "友情招商"
+href = "https://www.google.com"
+
+[[params.addtional_menus]]
+title = "ARCHIVE"
+href = "/archive"
+
+[[params.addtional_menus]]
+title = "ABOUT"
+href = "/about"

@@ -3,7 +3,7 @@ title: "Compact Disk For WSL2"
 subtitle: ""
 description: "压缩wsl2的磁盘占用空间"
 date: 2024-12-20T14:47:10+08:00
-auther: "Devin"
+author: "Devin"
 tags: 
     - wsl
 draft: false
